@@ -78,7 +78,7 @@ reverse(`hey`)
 function findLongestWord([a,b,c,d]) {
     let longest = " ";
     for (let i =0, i < [a,b,c,d].length; i++) {
-        if ([a,b,c,d],length > longest) {
+        if ([a,b,c,d].length > longest) {
             let longest = [a,b,c,d][0].length;
             longest >= [a,b,c,d][i];
         }

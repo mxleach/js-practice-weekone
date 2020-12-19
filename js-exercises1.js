@@ -39,7 +39,7 @@ var age = "Tim is "+ (calculateAge) + " years old";
 
 
 // Store some information following in variables.
-const yourName= "Max
+const yourName= "Max"
 const instructorName= "Nick"
 const goal = "become a better programmer"
 
